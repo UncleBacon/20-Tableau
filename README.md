@@ -22,7 +22,7 @@ These files must be saved to the file titled Resources in the repository.
 
 # Data clean up
 <ul>
-    <li>Run the `Citibank Data Munging.ipynb` file found in the `Jupyter` Folder.</li>
+    <li>Run the <strong>Citibank Data Munging.ipynb</strong> file found in the <strong>Jupyter Folder</strong>.</li>
     <li>Be sure to enter your Postgresql password where prompted in the notebook</li>
 </ul>
 
