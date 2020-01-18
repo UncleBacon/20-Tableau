@@ -1,5 +1,5 @@
 # 20-Tableau
-Citibike has collected ride data starting in 2013 through present day. For this project I am using data from the month of August for the years 2013, 2016, 2019. My assumption is that August would ridership would be high providing many data points. I also wanted to evaluate the change over time in citibike usage splitting the data into 3 periods. 
+Citibike has collected ride data starting in 2013 through present day. For this project I am using data from the month of August for the years 2013, 2016, 2019. My assumption is that August ridership would be high providing many data points. I also wanted to evaluate the change over time in citibike usage splitting the data into 3 periods. 
 
 # Required Libraries
 <ol>
